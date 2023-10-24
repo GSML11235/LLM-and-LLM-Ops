@@ -4,3 +4,4 @@ Vector database: Pinecone, weaviate, databricks, AWS kendra, MS cog search
 Security/anonmyzation: DynamoFL, Trascend io, skyflow, Add value machine, Calypso ai, Arthur
 Annotation: Snorkel AI, Scale AI, Prodigy, Lavel Studio, Dataloop, Labelbox
 Deepspeed to optimize deep learning: https://github.com/microsoft/DeepSpeed
+MLflow for model tracking: https://mlflow.org/docs/latest/llm-tracking.html
